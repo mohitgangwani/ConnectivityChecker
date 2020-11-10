@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectivityChecker", "ConnectivityChecker\ConnectivityChecker.csproj", "{07252912-EE5B-4A22-8960-7E8217D3F7D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07252912-EE5B-4A22-8960-7E8217D3F7D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07252912-EE5B-4A22-8960-7E8217D3F7D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07252912-EE5B-4A22-8960-7E8217D3F7D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07252912-EE5B-4A22-8960-7E8217D3F7D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10A18293-1F01-45B1-A05D-FFBF80E2A433}
+	EndGlobalSection
+EndGlobal
