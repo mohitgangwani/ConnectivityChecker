@@ -92,11 +92,6 @@ namespace ConnectivityChecker
             {
                 backgroundWorker1.RunWorkerAsync();
             }
-            //if(IsConnectivity == true)
-            // {
-            //      label4.Text = DateTime.Now.ToString();
-            // }
-
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -105,6 +100,8 @@ namespace ConnectivityChecker
             {
                 backgroundWorker1.CancelAsync();
             }
+            label3.Text = null;
+            label4.Text = null;
 
         }
     }
